@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hello, I'm Pedro Buffon <img src="https://i.gifer.com/XOsX.gif" width="25"> </h1>
+    <h1>Hello, I'm Pedro Buffon</h1>
     <h3> Web Developer from Caxias do Sul, Brazil</h3>
     <p>I'm currently 25 years old, I started studying and deepening myself in the technology field in February / 2022. I'm currently taking the "Análise e Desenvolvimento de Sistemas" course at college and working in the area.</p> 
     <h3>Skills and Knowledge</h3>
