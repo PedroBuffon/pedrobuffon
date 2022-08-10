@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Hello, I'm Pedro Buffon</h1>
-    <a href="https://wakatime.com/@2ec9615c-defa-44a9-8fb9-545ab3a8454c"><img src="https://wakatime.com/badge/user/2ec9615c-defa-44a9-8fb9-545ab3a8454c.svg" alt="Total time coded since Aug 3 2022" /></a>
+    <a href="https://wakatime.com/@2ec9615c-defa-44a9-8fb9-545ab3a8454c" target="_blank"><img src="https://wakatime.com/badge/user/2ec9615c-defa-44a9-8fb9-545ab3a8454c.svg" alt="Total time coded since Aug 3 2022" /></a>
     <h3> Web Developer from Caxias do Sul, Brazil</h3>
     <p>I'm currently 25 years old, I started studying and deepening myself in the technology field in February / 2022. I'm currently taking the "Análise e Desenvolvimento de Sistemas" course at college and working in the area.</p> 
     <h3>Skills and Knowledge</h3>
