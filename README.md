@@ -8,10 +8,15 @@
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img width="153" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
     <a href="https://www.php.net/"><img width="85" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
     <a href="https://www.postgresql.org/"><img width="158" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a><br>
+    <a href="https://www.apache.org/"><img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" width="117px"></a>
+    <a href="https://www.nginx.com/"><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" width="110px"></a></br>
+    <! -- -->
     <a href="https://wakatime.com/@2ec9615c-defa-44a9-8fb9-545ab3a8454c"><img src="https://wakatime.com/badge/user/2ec9615c-defa-44a9-8fb9-545ab3a8454c.svg" alt="Total time coded since Aug 3 2022" /></a><br>
     <a href="https://visualstudio.microsoft.com"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg"?style=for-the-badge&logo=visual-studio-code&logoColor=white>
     <h3>Contact with me</h3>
      <a href="https://www.linkedin.com/in/pedro-buffon-26261a15b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="140px"></a>
      <a href="mailto: henriquebuffon@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="110px"></a>
+     <a href="https://www.facebook.com/pedro.h.buffon/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" width="140px"></a>
+     <a href="https://www.reddit.com/user/pedrobuffon"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" width="117px"></a></br
 </div>
 <br>
