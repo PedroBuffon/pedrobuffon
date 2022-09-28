@@ -1,10 +1,10 @@
 <div align="center">
     <h1>Hello, I'm Pedro Buffon</h1>
-    <div align="center">
-        <a href="https://github.com/PedroBuffon">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroBuffon&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBuffon&layout=compact&langs_count=7&theme=dark"/>
-    </div>
+<div align="center">
+  <a href="https://github.com/pedrobuffon">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrobuffon&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobuffon&layout=compact&theme=dark"/>
+</div>
     <img src="https://komarev.com/ghpvc/?username=pedrobuffon&color=brightgreen">    
     <h3> Web Developer from Caxias do Sul, Brazil</h3>
     <p>I'm currently 25 years old, I started studying and deepening myself in the technology field in February / 2022. I'm currently taking the "Analysis and Systems Development" course at college and working in the area.</p> 
