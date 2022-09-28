@@ -1,5 +1,6 @@
 <div align="center">
     <h1>Hello, I'm Pedro Buffon</h1>
+    <img src="https://komarev.com/ghpvc/?username=pedrobuffon&color=brightgreen">    
     <h3> Web Developer from Caxias do Sul, Brazil</h3>
     <p>I'm currently 25 years old, I started studying and deepening myself in the technology field in February / 2022. I'm currently taking the "Analysis and Systems Development" course at college and working in the area.</p> 
     <h3>Skills and Knowledge</h3>
