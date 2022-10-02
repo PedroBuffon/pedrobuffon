@@ -1,14 +1,12 @@
 <div align="center">
-    <h1>Hello, I'm Pedro Buffon</h1>
-<div align="center">
-  <a href="https://github.com/pedrobuffon">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrobuffon&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobuffon&layout=compact&theme=dark"/>
-</div>
-    <img src="https://komarev.com/ghpvc/?username=pedrobuffon&color=brightgreen">    
+<h1>Hello, I'm Pedro Buffon</h1>
     <h3> Web Developer from Caxias do Sul, Brazil</h3>
     <p>I'm currently 25 years old, I started studying and deepening myself in the technology field in February / 2022. I'm currently taking the "Analysis and Systems Development" course at college and working in the area.</p> 
     <h3>Skills and Knowledge</h3>
+    <div align="center">
+  <a href="https://github.com/pedrobuffon">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pedrobuffon&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    </div>
     <a href="https://www.w3schools.com/html/"><img width="106" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
     <a href="https://www.w3schools.com/css/"><img width="93" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img width="153" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
