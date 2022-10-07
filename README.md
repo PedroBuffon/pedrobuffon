@@ -24,3 +24,4 @@
      <a href="https://www.reddit.com/user/pedrobuffon"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" width="117px"></a></br
 </div>
 <br>
+<a href="https://www.buymeacoffee.com/pedrobuffon"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=pedrobuffon&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff" /></a>
