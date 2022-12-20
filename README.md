@@ -10,7 +10,7 @@
     </div>
     <a href="https://www.w3schools.com/html/"><img width="106" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
     <a href="https://www.w3schools.com/css/"><img width="93" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img width="153" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
+    <a href="https://www.javascript.com"><img width="153" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
     <a href="https://www.php.net/"><img width="85" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
     <a href="https://www.postgresql.org/"><img width="158" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a><br>
     <a href="https://www.apache.org/"><img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" width="117px"></a>
