@@ -4,9 +4,9 @@
     <p>I'm currently 25 years old, I started studying and deepening myself in the technology field in February / 2022. I'm currently taking the "Analysis and Systems Development" course at college and working in the area.</p> 
     <h3>Skills and Knowledge</h3>
     <div align="center">
-  <a href="https://github.com/pedrobuffon">
-  <img height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pedrobuffon&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-<img height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pedrobuffon&show_icons=true&layout=compact&theme=dark">
+  <a href="https://github.com/PedroBuffon">
+  <img height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PedroBuffon&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+<img height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PedroBuffon&show_icons=true&layout=compact&theme=dark">
     </div>
     <a href="https://www.w3schools.com/html/"><img width="106" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
     <a href="https://www.w3schools.com/css/"><img width="93" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
