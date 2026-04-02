@@ -1,71 +1,71 @@
-# Hi there, I'm Pedro Buffon
+<div align="center">
+    <!-- <img src="https://github.com/PedroBuffon.png" alt="Profile Picture" width="150" style="border-radius: 50%; border: 4px solid #3b82f6;" /> -->
+    <h1>Hi, I'm Pedro Buffon</h1>
+    <p><strong>Web Developer from Caxias do Sul, Brazil</strong></p>
+    <p style="font-size: 1.1em; color: #6b7280;">I'm a Web Developer from Caxias do Sul, Brazil, driven by a passion for building elegant and effective solutions. I began my journey in technology in February 2022 and am currently deepening my expertise through my degree in "Systems Analysis and Development" while actively contributing to the industry.</p>
+    <!-- Typing Animation Badge -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=3b82f6&center=true&vcenter=true&width=600&lines=Web+Developer:+~+Full-Stack+Development;~+Clean+Code+Advocate;~+Problem+Solver" alt="Typing Animation" />
+</div>
+<div align="center">
+    <h1>Connect with Me</h1>
+    <a href="https://www.linkedin.com/in/pedro-buffon-26261a15b" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:henriquebuffon@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</div>
 
-I'm a Web Developer from Caxias do Sul, Brazil, driven by a passion for building elegant and effective solutions. I began my journey in technology in February 2022 and am currently deepening my expertise through my degree in "Systems Analysis and Development" while actively contributing to the industry.
+<div align="center">
+    <h1>Languages & Databases:</h1>
+    <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/></a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/></a>
+    <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"/></a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/></a>
+</div>
+<div align="center">
+    <h1>Servers & Environment:</h1>
+    <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" alt="apache"/></a>
+    <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx"/></a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/></a>
+</div>
+<div align="center">
+    <h1>Tools I Use:</h1>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vs code"/></a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/></a>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/></a>
+</div>
 
-### Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pedro-buffon-26261a15b" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:henriquebuffon@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
-
----
-
-### My Tech Stack
-
-This is a list of technologies I've been working with recently.
-
-**Languages & Databases:**
-<p align="center">
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/> </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/> </a>
-</p>
-
-**Servers & Environment:**
-<p align="center">
-  <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" alt="apache"/> </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/> </a>
-</p>
-
-**Tools I Use:**
-<p align="center">
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vs code"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/> </a>
-</p>
-
-
----
-
-### My GitHub Stats & Activity
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=PedroBuffon&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Pedro Buffon's GitHub Stats">
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PedroBuffon&show_icons=true&layout=compact&theme=dark" alt="Pedro Buffon's Top Languages">
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://wakatime.com/@2ec9615c-defa-44a9-8fb9-545ab3a8454c">
+<div align="center">
+    <h1>My GitHub Stats & Activity</h1>
+    <table>
+        <tr>
+            <td width="50%" valign="top">
+                <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=PedroBuffon&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Pedro Buffon's GitHub Stats">
+            </td>
+            <td width="50%" valign="top">
+                <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PedroBuffon&show_icons=true&layout=compact&theme=dark" alt="Pedro Buffon's Top Languages">
+            </td>
+        </tr>
+    </table>
+</div>
+<div align="center">
+    <a href="https://wakatime.com/@2ec9615c-defa-44a9-8fb9-545ab3a8454c">
     <img src="https://wakatime.com/badge/user/2ec9615c-defa-44a9-8fb9-545ab3a8454c.svg" alt="Total time coded since Aug 3 2022" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/pedrobuffon">
+    </a>
+</div>
+<div align="center">
+    <a href="https://www.buymeacoffee.com/pedrobuffon">
     <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=pedrobuffon&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff" />
-  </a>
-</p>
+    </a>
+</div>
