@@ -4,8 +4,7 @@
     <p><strong>Web Developer from Caxias do Sul, Brazil</strong></p>
     <p style="font-size: 1.1em; color: #6b7280;">I'm a Web Developer from Caxias do Sul, Brazil, driven by a passion for building elegant and effective solutions. I began my journey in technology in February 2022 and am currently deepening my expertise through my degree in "Systems Analysis and Development" while actively contributing to the industry.</p>
     <!-- Typing Animation Badge -->
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=3b82f6&center=true&vcenter=true&width=600&lines=Web+Developer:+~+Full-Stack+Development;~+Clean+Code+Advocate;~+Problem+Solver" alt="Typing Animation" />
-</div>
+    <img src="https://raw.githubusercontent.com/PedroBuffon/gif-terminal/main/output.gif" alt="Terminal GIF" /></div>
 <div align="center">
     <h1>Connect with Me</h1>
     <a href="https://www.linkedin.com/in/pedro-buffon-26261a15b" target="_blank" rel="noreferrer">
