@@ -19,8 +19,6 @@ Currently pursuing a degree in Computer Science while actively working on real-w
 
 </div>
 
----
-
 <div align="center">
 
 ## Tech Stack
@@ -35,8 +33,6 @@ Currently pursuing a degree in Computer Science while actively working on real-w
 
 </div>
 
----
-
 <div align="center">
 
 ## GitHub Analytics
@@ -44,8 +40,6 @@ Currently pursuing a degree in Computer Science while actively working on real-w
 <br>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=PedroBuffon&theme=dracula&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak"/></a>
-
----
 
 <div align="center">
 
